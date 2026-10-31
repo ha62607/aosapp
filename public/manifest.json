@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "AOS — Custom Skins & Multi-Device OS",
+  "short_name": "AOS",
+  "description": "Governed AOS Engine serving many experiences under one account with N authorized devices.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
